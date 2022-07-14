@@ -1,9 +1,9 @@
 # pandas-challenge
 This is the homework 4 submittal for the pandas challenge in the U of M data analytics bootcamp.
 
-The main jupyter notebook for the submission is called PyCitySchool_submittal.ipynb
+The main jupyter notebook for the submission is called PyCitySchools_submittal.ipynb.
 
-The submitted notebook inclues a section for each of the following
+The submitted notebook inclues a section for each of the following.
 
     - District Summary
         -includes a one row table summarizing 
