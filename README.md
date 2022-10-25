@@ -1,5 +1,5 @@
-# pandas-challenge
-This is the homework 4 submittal for the pandas challenge in the U of M data analytics bootcamp.
+
+This repo contains Jupyter notebooks utilizing Pandas to analyze a school district database to help understand factors correlated to higher grades.
 
 The main jupyter notebook for the submission is called PyCitySchools_submittal.ipynb.
 
