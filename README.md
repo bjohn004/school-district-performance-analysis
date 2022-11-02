@@ -1,5 +1,6 @@
 
-This repo contains Jupyter notebooks utilizing Pandas to analyze a school district database to help understand factors correlated to higher grades.
+Summary/Problem: This repo contains Jupyter notebooks utilizing Pandas to analyze a school district database to help understand factors correlated to higher grades. Do Charter scores perform better? Do Math and Reading scores get better by grade?
+![notebook image](images/screenshot.png)
 
 The main jupyter notebook for the submission is called PyCitySchools_submittal.ipynb.
 
